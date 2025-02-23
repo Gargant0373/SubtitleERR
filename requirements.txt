@@ -3,3 +3,4 @@ torch
 sentencepiece
 flask
 flask_cors
+sacremoses
